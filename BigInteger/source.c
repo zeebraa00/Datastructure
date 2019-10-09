@@ -46,23 +46,33 @@ int main() {
 		printf("%s\n", output + i);
 	}
 	else if (oper[0] == '*') {
-		for (i = 0; i < 201; i++) {
+
+		//fucking °öÇÏ±â¾¾ ÆÈ
+		temp[200] = NULL;
+		for (i = 0; i < 200; i++) {
 			temp[i] = 0;
 		}
+
 		for (i = 99; i >= 100 - len1; i--) {
 			for (j = 99; j >= 100 - len2; j--) {
 				sum = (input1[i] - '0') * (input2[j] - '0') + carry;
 				carry = sum / 10;
 				sum = sum % 10;
-				temp[j + 100] += sum;
+				temp[j + 100 - (99-i)] += sum;
 			}
-			temp[199 - len2] += carry;
+			temp[199 - len2 - (99-i)] += carry;
 		}
+
+
+
 		for (i = 0; i < 201; i++) {
 			output[i] = temp[i] + '0';
 		}
 		for (i = 0; output[i] == '0'; i++);
 		printf("%s\n", output + i);
+	
+	
+	
 	}
 	else {
 		return -1;
