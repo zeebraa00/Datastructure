@@ -1,0 +1,108 @@
+Init input
+0 0 1 
+0 0 1 
+1 0 1 
+1 0 0 
+1 0 0 
+
+----------------------
+
+Start DFS function at pos : 0 0
+Current pos : 0 0
+-1 0 1 
+0 0 1 
+1 0 1 
+1 0 0 
+1 0 0 
+
+----------------------
+
+Start DFS function at pos : 1 0
+Current pos : 1 0
+-1 0 1 
+-1 0 1 
+1 0 1 
+1 0 0 
+1 0 0 
+
+----------------------
+
+Start DFS function at pos : 1 1
+Current pos : 1 1
+-1 0 1 
+-1 -1 1 
+1 0 1 
+1 0 0 
+1 0 0 
+
+----------------------
+
+Start DFS function at pos : 2 1
+Current pos : 2 1
+-1 0 1 
+-1 -1 1 
+1 -1 1 
+1 0 0 
+1 0 0 
+
+----------------------
+
+Start DFS function at pos : 3 1
+Current pos : 3 1
+-1 0 1 
+-1 -1 1 
+1 -1 1 
+1 -1 0 
+1 0 0 
+
+----------------------
+
+Start DFS function at pos : 4 1
+Current pos : 4 1
+-1 0 1 
+-1 -1 1 
+1 -1 1 
+1 -1 0 
+1 -1 0 
+
+----------------------
+
+Start DFS function at pos : 5 1
+Start DFS function at pos : 4 2
+Current pos : 4 2
+-1 0 1 
+-1 -1 1 
+1 -1 1 
+1 -1 0 
+1 -1 -1 
+
+----------------------
+
+Start DFS function at pos : 5 2
+Start DFS function at pos : 4 3
+Start DFS function at pos : 3 2
+Current pos : 3 2
+-1 0 1 
+-1 -1 1 
+1 -1 1 
+1 -1 -1 
+1 -1 -1 
+
+----------------------
+
+Start DFS function at pos : 3 3
+Start DFS function at pos : 0 1
+Current pos : 0 1
+-1 -1 1 
+-1 -1 1 
+1 -1 1 
+1 -1 -1 
+1 -1 -1 
+
+----------------------
+
+Start DFS function at pos : -1 1
+Start DFS function at pos : 1 -1
+Start DFS function at pos : -1 0
+Start DFS function at pos : 0 -1
+1
