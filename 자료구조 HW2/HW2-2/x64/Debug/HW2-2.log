@@ -1,0 +1,9 @@
+﻿  소스.c
+C:\Users\zeebr\Desktop\datastructure\자료구조 HW2\HW2-2\소스.c(9,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'NodeStruct' 왼쪽은 무시됩니다.
+C:\Users\zeebr\Desktop\datastructure\자료구조 HW2\HW2-2\소스.c(15,57): warning C4133: '=': 'Node *'과(와) 'NodeStruct *' 사이의 형식이 호환되지 않습니다.
+C:\Users\zeebr\Desktop\datastructure\자료구조 HW2\HW2-2\소스.c(18,14): warning C4133: 'return': 'NodeStruct *'과(와) 'NodeSturct *' 사이의 형식이 호환되지 않습니다.
+C:\Users\zeebr\Desktop\datastructure\자료구조 HW2\HW2-2\소스.c(22,51): warning C4133: '=': 'NodeSturct *'과(와) 'NodeStruct *' 사이의 형식이 호환되지 않습니다.
+C:\Users\zeebr\Desktop\datastructure\자료구조 HW2\HW2-2\소스.c(25,53): warning C4133: '=': 'NodeSturct *'과(와) 'NodeStruct *' 사이의 형식이 호환되지 않습니다.
+C:\Users\zeebr\Desktop\datastructure\자료구조 HW2\HW2-2\소스.c(28,13): warning C4133: 'return': 'NodeStruct *'과(와) 'NodeSturct *' 사이의 형식이 호환되지 않습니다.
+C:\Users\zeebr\Desktop\datastructure\자료구조 HW2\HW2-2\소스.c(54,28): warning C4133: '=': 'NodeSturct *'과(와) 'NodeStruct *' 사이의 형식이 호환되지 않습니다.
+  HW2-2.vcxproj -> C:\Users\zeebr\Desktop\datastructure\자료구조 HW2\HW2-2\x64\Debug\HW2-2.exe

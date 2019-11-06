@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\zeebr\Desktop\HW2-1\소스.c(18,8): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\zeebr\Desktop\HW2-1\소스.c(57,17): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  HW2-1.vcxproj -> C:\Users\zeebr\Desktop\HW2-1\Debug\HW2-1.exe
