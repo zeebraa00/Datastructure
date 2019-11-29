@@ -1,2 +1,5 @@
 ﻿  소스.c
-  HW2-1(2).vcxproj -> C:\Users\zeebr\Desktop\HW2-1(2)\Debug\HW2-1(2).exe
+C:\Users\zeebr\Desktop\datastructure\자료구조 HW2\HW2-1(qsort)\소스.c(25,16): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\zeebr\Desktop\datastructure\자료구조 HW2\HW2-1(qsort)\소스.c(32,8): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\zeebr\Desktop\datastructure\자료구조 HW2\HW2-1(qsort)\소스.c(27): warning C4715: 'compare': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  HW2-1(2).vcxproj -> C:\Users\zeebr\Desktop\datastructure\자료구조 HW2\HW2-1(qsort)\Debug\HW2-1(2).exe

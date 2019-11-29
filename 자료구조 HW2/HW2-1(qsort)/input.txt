@@ -7,7 +7,7 @@ apple 7 4
 apple 8 5
 Simon 3 2
 kiwi  12 3
-banana 2 1
+banana 2 1 
 Banana 2 1
 BaNana 2 1
 canada 12 3
